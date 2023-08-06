@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tayyab.
-- 👀 I’m interested in Web Development, Blockchain, Machine Learning
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Node js
 - 💞️ I’m looking to collaborate on Web development-related projects.
 - 📫 Reach me at https://www.linkedin.com/in/muhammad-tayyab-9301b2253/
